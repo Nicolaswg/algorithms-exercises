@@ -12,6 +12,8 @@
 
 function bubbleSort(nums) {
   console.log(nums);
+  let hello = "hello";
+  console.log(hello);
 }
 
 // unit tests
