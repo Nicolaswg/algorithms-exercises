@@ -98,7 +98,7 @@ test("radix sort", function () {
       3001
     ]);
   });
-  test.skip("should sort 99 random numbers correctly", () => {
+  test("should sort 99 random numbers correctly", () => {
     const fill = 99;
     const nums = new Array(fill)
       .fill()
